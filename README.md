@@ -10,7 +10,7 @@ Solve 2D linear programming problem by prune and search
  ![](https://latex.codecogs.com/gif.latex?-300)  ![](https://latex.codecogs.com/gif.latex?\leq) ![](https://latex.codecogs.com/gif.latex?a,b,c\leq300)。
 
 ## Output
-請輸出滿足所有限制條件的最小 ![](https://latex.codecogs.com/gif.latex?y) 值(四捨五入至整數)；若無解，請輸出 ![](https://latex.codecogs.com/gif.latex?NA)；若為負無限大，請輸出 
-![](https://latex.codecogs.com/gif.latex?-)。
+請輸出滿足所有限制條件的最小 ![](https://latex.codecogs.com/gif.latex?y) 值(四捨五入至整數)；若無解，請輸出 ![](https://latex.codecogs.com/gif.latex?NA)；若為負無限大，請輸出  
+![](https://latex.codecogs.com/gif.latex?INF)。
 
 
