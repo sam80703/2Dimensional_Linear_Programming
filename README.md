@@ -7,6 +7,7 @@ Solve 2D linear programming problem by prune and search
 ## Input
 第一行包含一個正整數 ![](https://latex.codecogs.com/gif.latex?n\leq10^5)，代表限制條件的個數，下一行開始每行三個整數代表 
 ![](https://latex.codecogs.com/gif.latex?ax+by\leq) ![](https://latex.codecogs.com/gif.latex?c)，其中 ![](https://latex.codecogs.com/gif.latex?a^2+b^2>0)，
+ 
  ![](https://latex.codecogs.com/gif.latex?-300)  ![](https://latex.codecogs.com/gif.latex?\leq) ![](https://latex.codecogs.com/gif.latex?a,b,c\leq300)。
 
 ## Output
